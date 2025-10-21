@@ -177,7 +177,7 @@ Currently seeking: Data Analyst roles where I can apply storytelling, Python, an
 
 - 📧 ekkarit.g@outlook.com
 - 💼 https://www.linkedin.com/in/ekkarit-gaewprapun-dba-cma-fmva%C2%AE-3153a0151/
-- 🐙 [GitHub Profile URL]
+- 🐙 https://github.com/ekkaritg-USA
 
 ---
 
