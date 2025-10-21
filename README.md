@@ -257,12 +257,12 @@ This project is open source under the MIT License.
 
 ## 👤 About Me
 
-**[Your Name]**  
-Data Analyst | Space Enthusiast | Storyteller
+**Ekkarit Gaewprapun**  
+Strategic Foresight Leader | AI-Powered Financial Analytics | Futurist Bridging Finance & Data Science | DBA, CMA, FMVA® | Transforming Uncertainty into Competitive Advantage
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Portfolio]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: https://www.linkedin.com/in/ekkarit-gaewprapun-dba-cma-fmva%C2%AE-3153a0151/
+- 🌐 Portfolio: Will be up and running soon.
+- 📧 Email: ekkarit.g@outlook.com
 
 ---
 
