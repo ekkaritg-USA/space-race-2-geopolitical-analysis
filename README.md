@@ -1,4 +1,4 @@
-# 🚀 Space Race 2.0: Who's Winning the Geopolitical Battle for Space?
+# Space Race 2.0: Who's Winning the Geopolitical Battle for Space?
 
 An in-depth geopolitical analysis of the modern space race using 66+ years of space mission data (1957-2022).
 
@@ -6,7 +6,7 @@ An in-depth geopolitical analysis of the modern space race using 66+ years of sp
 
 ---
 
-## 🎯 The Question
+## The Question
 
 Who is truly winning the "new space race," and what does 66+ years of data reveal about shifting geopolitical power in space?
 
@@ -14,7 +14,7 @@ We dive into the data (4,630+ space missions from 1957 to 2022) to track the ris
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 ### **The Three-Era Evolution**
 
@@ -49,9 +49,9 @@ We dive into the data (4,630+ space missions from 1957 to 2022) to track the ris
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
-### 🌐 **[→ Explore All Interactive Visualizations](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/)**
+###  **[→ Explore All Interactive Visualizations](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/)**
 
 Or view individually:
 
@@ -65,7 +65,7 @@ Or view individually:
 
 ---
 
-## 🗂️ **[→ 2030 Projections](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz7_2030_projections.html)**
+## **[→ 2030 Projections](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz7_2030_projections.html)**
 
 ### **Critical Patterns:**
 
@@ -83,7 +83,7 @@ Or view individually:
 
 ---
 
-## 📁 **Quick Tour**
+## **Quick Tour**
 
 ### **Data:**
 - **[Space Missions Dataset](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/data/space_missions.csv)** - 4,630 missions from 1957-2022
@@ -137,7 +137,7 @@ This project pushed me to:
 
 ---
 
-## 🚀 **Future Enhancements**
+##  **Future Enhancements**
 
 Want to take this further? Here's the roadmap:
 
@@ -149,7 +149,7 @@ Want to take this further? Here's the roadmap:
 
 ---
 
-## 📝 **Contributing**
+## **Contributing**
 
 Found an insight I missed? Want to add visualizations or data sources?
 
@@ -181,7 +181,7 @@ Currently seeking: Data Analyst roles where I can apply storytelling, Python, an
 
 ---
 
-## 🙏 **Acknowledgments**
+## **Acknowledgments**
 
 - **Data Source:** [next-spaceflight.com](https://nextspaceflight.com/) (via Kaggle)
 - **Inspiration:** The growing importance of space in 21st-century geopolitics
