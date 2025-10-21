@@ -171,12 +171,12 @@ This project is open source under the MIT License.
 
 ## 👤 **About Me**
 
-**[Your Name]** | Data Analyst | Space Policy Enthusiast
+**Ekkarit Gaewprapun** | Strategic Foresight Leader | AI-Powered Financial Analytics | Futurist Bridging Finance & Data Science | DBA, CMA, FMVA® | Transforming Uncertainty into Competitive Advantage
 
 Currently seeking: Data Analyst roles where I can apply storytelling, Python, and strategic thinking to real-world problems.
 
-- 📧 [Your Email]
-- 💼 [LinkedIn Profile URL]
+- 📧 ekkarit.g@outlook.com
+- 💼 https://www.linkedin.com/in/ekkarit-gaewprapun-dba-cma-fmva%C2%AE-3153a0151/
 - 🐙 [GitHub Profile URL]
 
 ---
