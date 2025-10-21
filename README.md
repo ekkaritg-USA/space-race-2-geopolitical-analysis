@@ -1,254 +1,192 @@
 # 🚀 Space Race 2.0: Who's Winning the Geopolitical Battle for Space?
 
-**An in-depth geopolitical analysis of 65 years of space exploration (1957-2022)**
+An in-depth geopolitical analysis of the modern space race using 66+ years of space mission data (1957-2022).
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive-green.svg)](https://plotly.com/)
-[![Data](https://img.shields.io/badge/Data-4630_Missions-orange.svg)](data/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/)
 
---
+---
 
 ## 🎯 The Question
 
-**Who is winning the new space race, and what does the data reveal about shifting global power dynamics?**
+Who is truly winning the "new space race," and what does 66+ years of data reveal about shifting geopolitical power in space?
 
-After the Cold War space race between the USSR and USA, a new chapter has begun. China, India, and private companies like SpaceX have emerged as major players. This project uses data-driven analysis to determine who truly dominates space exploration today.
-
----
-
-## 🔍 Key Findings
-
-### **The Three-Era Evolution:**
-
-**1️⃣ Cold War Dominance (1957-1991)**
-- USSR reached peak Space Power Index of 97.6 in the 1970s
-- USA maintained steady performance (80-85 SPI range)
-- Only 2 major players, government-controlled
-
-**2️⃣ Transition Period (1991-2015)**
-- Russia's SPI collapsed from 97 → 45 after USSR dissolution
-- USA became sole superpower (SPI ~98)
-- Commercial space began emerging
-
-**3️⃣ The New Space Race (2016-2022)**
-- **China emerged as #2** with SPI of 93.8 (from 23 in 1960s)
-- **USA leads** with SPI of 96.7
-- Launch frequency DOUBLED: 46 → 111 launches/year
-- Costs dropped 89%: $450M → $48M median
-
-### **💥 The Shocking Discoveries:**
-
-**China's Rise:**
-- 208 launches (2016-2022) vs. 59 launches (2010-2015) = **252% growth**
-- 97.4% success rate (HIGHEST among major powers)
-- $29.75M median launch cost (cheaper than SpaceX)
-
-**Russia's Decline:**
-- From #1 space power (1960s-1980s) to #3 today
-- SPI dropped from 97.6 → 56.7
-- Lost technological edge to both USA and China
-
-**The 2030 Projection:**
-- If current trends continue, China could launch **~180 missions/year** by 2030
-- USA projected at **~140 missions/year**
-- Space activity could triple in the next decade
+We dive into the data (4,630+ space missions from 1957 to 2022) to track the rise of China, the decline of Russia, and the emergence of new players like India and private companies like SpaceX. This is not just about rockets—it's about power, influence, and the future of humanity in space.
 
 ---
 
-## 📊 Interactive Visualizations
+## 🔑 Key Findings
 
-**Explore the data:**
-- [View All Visualizations](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/)
-- [Space Power Rankings](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz1_current_space_power_rankings.html)
-- [Component Breakdown](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz2_component_breakdown_radar.html)
+### **The Three-Era Evolution**
 
-## 📁 Data Source
-- [Space Missions Dataset (4,630 missions)](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/data/space_missions.csv)
+1. **Cold War Era (1957-1991):**
+   - USSR vs USA—space as ideological battleground (~75% of missions)
+   - USSR led in raw launches; USA won the "moonshot moment"
 
-## **Critical Points:**
+2. **Transition Era (1992-2009):**
+   - Russia faltered; commercial space awakened
+   - USA dominated as sole superpower (~40% of missions)
 
-❌ **DO NOT open HTML files directly from your computer** (causes "about:blank#blocked")
+3. **The New Space Race (2010-2022):**
+   - China emerges as #2 global power with sustained growth
+   - Private companies (SpaceX, Blue Origin) disrupt the field
+   - Diversification in space with India, UAE, New Zealand entering
 
-✅ **ONLY access via GitHub Pages URLs** (https://[username].github.io/...)
+### **The Shocking Upset:**
 
-✅ **Wait for GitHub Actions to complete** before testing links
+- **2021 was a tipping point:** China matched the US in launches for the first time
+- **SpaceX alone conducted 31 launches in 2022**—more than most countries combined
+- India's cost efficiency is unmatched: **$74M per launch** vs **$152M (USA)** and **$133M (China)**
 
----
+### **Winner Status:**
 
-## **Quick Test:**
+- **USA:** Still #1 overall, but China is closing the gap rapidly
+- **China:** Rising superpower—consistent, strategic, state-driven
+- **Russia:** Former giant in decline
 
-**Tell me your GitHub username** and I'll give you the exact URLs to test!
+- **India:** The dark horse with cost advantages
 
-Or test this format:
-```
-https://[YOUR-GITHUB-USERNAME].github.io/space-race-2-geopolitical-analysis/visualizations/
----
-
-### **1. Current Space Power Rankings**
-![Space Power Index](visualizations/viz1_preview.png)
-
-The Space Power Index (SPI) is a composite metric combining:
-...
-
-## 🛠️ Methodology
-
-### **Data Source**
-- **Dataset:** Historical space missions (Maven Analytics)
-- **Time Period:** 1957-2022 (65 years)
-- **Records:** 4,630 missions
-- **Variables:** Company, location, date, rocket type, mission status, cost
-
-### **Analysis Pipeline**
-
-**1. Data Enhancement:**
-- Mapped 62 organizations to 15 countries
-- Classified missions into 6 geopolitical eras
-- Added regional groupings (East/West/Middle East)
-
-**2. Space Power Index Creation:**
-```
-SPI = (Launch_Volume × 0.25) + 
-      (Success_Rate × 0.30) + 
-      (Tech_Diversity × 0.20) + 
-      (Recent_Momentum × 0.25)
-```
-
-All components normalized to 0-100 scale.
-
-**3. Temporal Analysis:**
-- Calculated SPI for each decade (1960s-2020s)
-- Identified inflection points (USSR collapse, China rise)
-- Projected trends to 2030 using linear growth models
-
-**4. Comparative Analysis:**
-- USA vs China detailed comparison
-- Emerging powers growth rate analysis
-- Geographic distribution mapping
-
-### **Tools & Technologies**
-- **Language:** Python 3.8+
-- **Analysis:** Pandas, NumPy
-- **Visualization:** Plotly (interactive charts)
-- **Platform:** Google Colab
-- **Version Control:** Git/GitHub
+- **SpaceX:** The wild card—a private company rivaling nations
 
 ---
 
-## 📂 Repository Structure
-```
-space-race-2-geopolitical-analysis/
-│
-├── README.md                                    # This file
-├── space_race_geopolitical_power_analysis.ipynb # Main analysis notebook
-│
-├── data/
-│   ├── space_missions.csv                       # Original dataset
-│   ├── space_missions_enhanced.csv              # With country/region features
-│   ├── space_power_index_2016_2022.csv         # Current era rankings
-│   └── space_power_index_historical.csv        # Historical rankings by decade
-│
-├── visualizations/
-│   ├── viz1_current_space_power_rankings.html
-│   ├── viz2_component_breakdown_radar.html
-│   ├── viz3_historical_evolution_timeline.html
-│   ├── viz4_usa_vs_china_comparison.html
-│   ├── viz5_global_launch_map.html
-│   ├── viz6_emerging_powers_growth.html
-│   └── viz7_2030_projections.html
-│
-└── requirements.txt                             # Python dependencies
+## 📊 Visualizations
+
+### 🌐 **[→ Explore All Interactive Visualizations](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/)**
+
+Or view individually:
+
+- **[Space Power Rankings](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz1_current_space_power_rankings.html)** - Current standings by launch activity
+- **[Component Breakdown](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz2_component_breakdown_radar.html)** - Multi-dimensional power analysis
+- **[Historical Evolution](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz3_historical_evolution_timeline.html)** - 66 years of space race dynamics
+- **[USA vs China](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz4_usa_vs_china_comparison.html)** - Head-to-head comparison
+- **[Global Launch Map](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz5_global_launch_map.html)** - Geographic distribution of space activity
+- **[Emerging Powers](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz6_emerging_powers_growth.html)** - India, UAE, and new players
+- **[2030 Projections](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz7_2030_projections.html)** - Where the space race is heading
+
+---
+
+## 🗂️ **[→ 2030 Projections](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz7_2030_projections.html)**
+
+### **Critical Patterns:**
+
+1. **USA still leads, but with caveats:**
+   - Heavy reliance on private sector (SpaceX accounts for 50%+ of US launches)
+   - Question: Can SpaceX sustain this pace, or is it a temporary boom?
+
+2. **China's steady climb:**
+   - State-backed with clear strategic goals (space station, lunar base, Mars missions)
+   - Prediction: China will match or exceed the US in launches by 2028
+
+3. **Russia's steep decline:**
+   - Geopolitical isolation post-2022 accelerated their fall
+   - Prediction: Russia becomes a minor player by 2030
+
+---
+
+## 📁 **Quick Tour**
+
+### **Data:**
+- **[Space Missions Dataset](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/data/space_missions.csv)** - 4,630 missions from 1957-2022
+- **[Enhanced Dataset](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/data/space_missions_enhanced.csv)** - With geopolitical classifications
+- **[Power Index Data](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/data/space_power_index_2016_2022.csv)** - Calculated rankings
+
+### **Code:**
+```python
+# Main analysis notebook
+space_race_2_geopolitical_power_analysis.ipynb
+
+# Technologies used:
+- Python 3.x
+- pandas, numpy (data manipulation)
+- plotly, folium (interactive visualizations)
+- scikit-learn (trend analysis & projections)
 ```
 
 ---
 
-## 🚀 How to Use This Project
+## 💡 **How to Use This Project**
 
-### **View Interactive Visualizations**
-Click any HTML file in the `visualizations/` folder to explore the interactive charts.
+### **For Recruiters:**
+1. **View the live site:** [GitHub Pages deployment](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/)
+2. **Explore visualizations:** All 7 interactive charts are browser-ready
+3. **Check the analysis:** Review methodology in the Jupyter notebook
+4. **Assess skills:** Python, data storytelling, geopolitical analysis, visualization design
 
-### **Run the Analysis**
-1. Open the notebook in Google Colab
-2. Upload the CSV files from `data/`
-3. Run all cells to reproduce the analysis
-
-### **Explore the Data**
-All processed datasets are available in the `data/` folder with clear documentation.
-
----
-
-## 💡 Key Insights for Different Audiences
-
-### **For Investors:**
-- Private space companies (SpaceX, Rocket Lab) drove 50% cost reduction
-- Launch frequency doubled in 7 years, indicating market growth
-- China's state-backed approach shows 8% annual growth vs USA's 5%
+### **For Data Enthusiasts:**
+1. Clone this repository
+2. Open `space_race_2_geopolitical_power_analysis.ipynb` in Google Colab or Jupyter
+3. Run the analysis yourself
+4. Fork and modify—add your own insights!
 
 ### **For Policymakers:**
-- China's space program is accelerating faster than USA's
-- Success rates plateaued at ~93% across all powers (reliability ceiling reached)
-- Geographic advantage: Coastal launch sites correlate with higher activity
-
-### **For Students/Researchers:**
-- Complete methodology documented in notebook
-- All code open source and reproducible
-- Demonstrates end-to-end data science workflow
+The data reveals critical insights about:
+- National space capabilities and trends
+- Strategic advantages of different space programs
+- Cost-efficiency benchmarks
+- Future power projections for planning
 
 ---
 
-## 🎓 What I Learned
+## 🎓 **What I Learned**
 
-This project taught me:
-- **Geopolitical data storytelling:** How to transform raw data into compelling narratives
-- **Custom metric design:** Creating composite indices (Space Power Index)
-- **Interactive visualization:** Building engaging Plotly dashboards
-- **Temporal analysis:** Identifying trends and inflection points across decades
-
----
-
-## 📈 Future Enhancements
-
-Potential extensions of this analysis:
-- Add launch cost prediction model (machine learning)
-- Include satellite deployment success tracking
-- Analyze specific mission types (communication, military, scientific)
-- Compare private vs. government success rates
-- Add real-time data pipeline for continuous updates
+This project pushed me to:
+- **Integrate data storytelling** from a business lens while using public data source
+- **Master geopolitical analysis** through data (understanding how launches signal power)
+- **Build production-ready visualizations** (interactive, web-deployable, compelling)
+- **Think like a strategist:** Moving beyond "what happened" to "what does it mean" and "what's next"
 
 ---
 
-## 🤝 Contributing
+## 🚀 **Future Enhancements**
 
-Found an error? Have suggestions? Open an issue or submit a pull request!
+Want to take this further? Here's the roadmap:
+
+- **Sentiment analysis:** Scrape news to gauge public perception of space powers
+- **Budget analysis:** Integrate space budget data (harder to find, but revealing)
+- **Collaboration networks:** Map alliances (USA-Europe, China-Russia, etc.)
+- **Commercial space boom:** Deeper dive into SpaceX, Blue Origin, Rocket Lab impact
+- **Real-time dashboard:** Auto-update with latest launches via API
 
 ---
 
-## 📜 License
+## 📝 **Contributing**
+
+Found an insight I missed? Want to add visualizations or data sources?
+
+**Pull requests welcome!** Let's build this together.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingInsight`)
+3. Commit your changes (`git commit -m 'Add some AmazingInsight'`)
+4. Push to the branch (`git push origin feature/AmazingInsight`)
+5. Open a Pull Request
+
+---
+
+## 📄 **License**
 
 This project is open source under the MIT License.
 
 ---
 
-## 👤 About Me
+## 👤 **About Me**
 
-**Ekkarit Gaewprapun**  
-Strategic Foresight Leader | AI-Powered Financial Analytics | Futurist Bridging Finance & Data Science | DBA, CMA, FMVA® | Transforming Uncertainty into Competitive Advantage
+**[Your Name]** | Data Analyst | Space Policy Enthusiast
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ekkarit-gaewprapun-dba-cma-fmva%C2%AE-3153a0151/
-- 🌐 Portfolio: Will be up and running soon.
-- 📧 Email: ekkarit.g@outlook.com
+Currently seeking: Data Analyst roles where I can apply storytelling, Python, and strategic thinking to real-world problems.
 
----
-
-## 🙏 Acknowledgments
-
-- **Data Source:** Maven Analytics - Historical Space Missions Dataset
-- **Inspiration:** The ongoing geopolitical competition in space exploration
-- **Tools:** Google Colab, Plotly, Python community
+- 📧 [Your Email]
+- 💼 [LinkedIn Profile URL]
+- 🐙 [GitHub Profile URL]
 
 ---
 
-**⭐ If you found this analysis insightful, please star this repository!**
+## 🙏 **Acknowledgments**
+
+- **Data Source:** [next-spaceflight.com](https://nextspaceflight.com/) (via Kaggle)
+- **Inspiration:** The growing importance of space in 21st-century geopolitics
+- **Tools:** Python, Plotly, Folium, pandas, GitHub Pages
 
 ---
 
-*Last Updated: October 21, 2025Whi*
+**If you find this analysis valuable, please star this repository! ⭐**
