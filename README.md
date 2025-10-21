@@ -173,7 +173,10 @@ This project is open source under the MIT License.
 
 **Ekkarit Gaewprapun** | Strategic Foresight Leader | AI-Powered Financial Analytics | Futurist Bridging Finance & Data Science | DBA, CMA, FMVA® | Transforming Uncertainty into Competitive Advantage
 
-Currently seeking: Data Analyst roles where I can apply storytelling, Python, and strategic thinking to real-world problems.
+Currently Seeking: VP FP&A | Director Strategic Finance | Chief Data Officer | Head of Analytics
+Strategic finance leader combining 25+ years of financial expertise with hands-on AI/ML capabilities. Specializing in predictive analytics, financial forecasting, and data-driven strategic planning.
+
+📍 Houston, TX | Open to Remote/Hybrid | Willing to Relocate
 
 - 📧 ekkarit.g@outlook.com
 - 💼 https://www.linkedin.com/in/ekkarit-gaewprapun-dba-cma-fmva%C2%AE-3153a0151/
