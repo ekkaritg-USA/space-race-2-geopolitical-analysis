@@ -183,7 +183,7 @@ Currently seeking: Data Analyst roles where I can apply storytelling, Python, an
 
 ## **Acknowledgments**
 
-- **Data Source:** [next-spaceflight.com](https://nextspaceflight.com/) (via Kaggle)
+- **Data Source:** Maven Analytics - Return to Space Challenge
 - **Inspiration:** The growing importance of space in 21st-century geopolitics
 - **Tools:** Python, Plotly, Folium, pandas, GitHub Pages
 
