@@ -57,65 +57,25 @@ After the Cold War space race between the USSR and USA, a new chapter has begun.
 
 ## 📊 Visualizations
 
+### 🌐 **Explore Interactive Visualizations**
+
+Click any link below to interact with the live dashboards:
+
+- **[Space Power Rankings →](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz1_current_space_power_rankings.html)** - Current rankings with composite scores
+- **[Component Breakdown →](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz2_component_breakdown_radar.html)** - Radar chart comparing top 5 nations
+- **[Historical Evolution →](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz3_historical_evolution_timeline.html)** - 60 years of shifting power dynamics
+- **[USA vs China →](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz4_usa_vs_china_comparison.html)** - Head-to-head comparison
+- **[Global Launch Map →](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz5_global_launch_map.html)** - Geographic distribution
+- **[Emerging Powers →](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz6_emerging_powers_growth.html)** - Growth rate analysis
+- **[2030 Projections →](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz7_2030_projections.html)** - Future predictions
+
+---
+
 ### **1. Current Space Power Rankings**
 ![Space Power Index](visualizations/viz1_preview.png)
 
 The Space Power Index (SPI) is a composite metric combining:
-- Launch Volume (25%)
-- Success Rate (30%)
-- Technology Diversity (20%)
-- Recent Momentum (25%)
-
-**Top 5 Nations (2016-2022):**
-1. 🇺🇸 USA: 96.7
-2. 🇨🇳 China: 93.8
-3. 🇷🇺 Russia: 56.7
-4. 🇪🇺 Europe (ESA): 44.7
-5. 🇮🇳 India: 35.0
-
----
-
-### **2. Historical Evolution: The Rise and Fall of Space Powers**
-![Evolution Timeline](visualizations/viz3_preview.png)
-
-Watch how space dominance shifted over 6 decades:
-- **1960s-1980s:** USSR peak
-- **1990s:** USSR collapse
-- **2000s-2010s:** USA dominance
-- **2020s:** China rises to challenge USA
-
----
-
-### **3. USA vs China: The New Space Race**
-![USA vs China](visualizations/viz4_preview.png)
-
-Head-to-head comparison shows:
-- **2021:** China launched 57 missions vs USA's 45
-- Both maintain 90%+ success rates
-- USA leads in diversity (commercial sector)
-- China leads in frequency (state-directed focus)
-
----
-
-### **4. Global Launch Activity Map**
-![Global Map](visualizations/viz5_preview.png)
-
-Geographic distribution reveals:
-- USA: 1,425 total launches (dominant in Western hemisphere)
-- China: 368 launches (all post-2000)
-- Russia: 308 launches (down from USSR's 1,777)
-
----
-
-### **5. 2030 Predictions**
-![2030 Projections](visualizations/viz7_preview.png)
-
-Based on 2016-2022 trends:
-- China projected to reach **~180 launches/year** (8% annual growth)
-- USA projected at **~140 launches/year** (5% annual growth)
-- Gap could narrow significantly by 2030
-
----
+...
 
 ## 🛠️ Methodology
 
@@ -278,4 +238,4 @@ Strategic Foresight Leader | AI-Powered Financial Analytics | Futurist Bridging 
 
 ---
 
-*Last Updated: [Current Date]*
+*Last Updated: October 21, 2025Whi*
