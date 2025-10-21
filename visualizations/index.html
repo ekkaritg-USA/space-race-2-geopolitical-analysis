@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Race 2.0 - Visualizations</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: white;
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .subtitle {
+            color: rgba(255,255,255,0.9);
+            text-align: center;
+            font-size: 1.2em;
+            margin-bottom: 50px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 25px;
+        }
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: block;
+        }
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+        .card-title {
+            color: #2c3e50;
+            font-size: 1.4em;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .card-desc {
+            color: #7f8c8d;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+        .icon {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+        .back-link {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .back-link a {
+            color: white;
+            text-decoration: none;
+            font-size: 1.1em;
+            padding: 12px 30px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 25px;
+            transition: all 0.3s;
+            display: inline-block;
+        }
+        .back-link a:hover {
+            background: rgba(255,255,255,0.3);
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Space Race 2.0: Interactive Visualizations</h1>
+        <p class="subtitle">Explore 65 years of geopolitical space competition through data</p>
+        
+        <div class="grid">
+            <a href="viz1_current_space_power_rankings.html" class="card">
+                <div class="icon">📊</div>
+                <div class="card-title">Space Power Rankings</div>
+                <div class="card-desc">Current standings based on our composite Space Power Index (2016-2022)</div>
+            </a>
+            
+            <a href="viz2_component_breakdown_radar.html" class="card">
+                <div class="icon">🎯</div>
+                <div class="card-title">Component Breakdown</div>
+                <div class="card-desc">Radar chart comparing strengths across volume, success, diversity, and momentum</div>
+            </a>
+            
+            <a href="viz3_historical_evolution_timeline.html" class="card">
+                <div class="icon">📈</div>
+                <div class="card-title">Historical Evolution</div>
+                <div class="card-desc">Watch how space power shifted from USSR dominance to today's multi-polar competition</div>
+            </a>
+            
+            <a href="viz4_usa_vs_china_comparison.html" class="card">
+                <div class="icon">⚔️</div>
+                <div class="card-title">USA vs China Showdown</div>
+                <div class="card-desc">Head-to-head comparison of the two current space superpowers</div>
+            </a>
+            
+            <a href="viz5_global_launch_map.html" class="card">
+                <div class="icon">🗺️</div>
+                <div class="card-title">Global Launch Map</div>
+                <div class="card-desc">Geographic distribution of space launch activity across the world</div>
+            </a>
+            
+            <a href="viz6_emerging_powers_growth.html" class="card">
+                <div class="icon">🚀</div>
+                <div class="card-title">Emerging Powers</div>
+                <div class="card-desc">Which nations show the fastest growth in space capabilities?</div>
+            </a>
+            
+            <a href="viz7_2030_projections.html" class="card">
+                <div class="icon">🔮</div>
+                <div class="card-title">2030 Projections</div>
+                <div class="card-desc">Data-driven predictions for the future of the space race</div>
+            </a>
+        </div>
+        
+        <div class="back-link">
+            <a href="../">← Back to Project Repository</a>
+        </div>
+    </div>
+</body>
+</html>
