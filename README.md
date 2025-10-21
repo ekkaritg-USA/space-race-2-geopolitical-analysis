@@ -55,19 +55,15 @@ After the Cold War space race between the USSR and USA, a new chapter has begun.
 
 ---
 
-## 📊 Visualizations
+## 📊 Interactive Visualizations
 
-## 🌐 **[→ Explore All Interactive Visualizations](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/)**
+**Explore the data:**
+- [View All Visualizations](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/)
+- [Space Power Rankings](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz1_current_space_power_rankings.html)
+- [Component Breakdown](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/visualizations/viz2_component_breakdown_radar.html)
 
-Or view individually:
-- [Space Power Rankings](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz1_current_space_power_rankings.html)
-- [Component Breakdown](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz2_component_breakdown_radar.html)
-- [Historical Evolution](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz3_historical_evolution_timeline.html)
-- [USA vs China](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz4_usa_vs_china_comparison.html)
-- [Global Launch Map](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz5_global_launch_map.html)
-- [Emerging Powers](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz6_emerging_powers_growth.html)
-- [2030 Projections](https://[your-username].github.io/space-race-2-geopolitical-analysis/visualizations/viz7_2030_projections.html)
----
+## 📁 Data Source
+- [Space Missions Dataset (4,630 missions)](https://ekkaritg-usa.github.io/space-race-2-geopolitical-analysis/data/space_missions.csv)
 
 ## **Critical Points:**
 
